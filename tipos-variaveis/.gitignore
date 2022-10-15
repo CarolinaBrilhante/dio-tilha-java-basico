@@ -1,4 +1,5 @@
-.settings
+/build/
+/.settings/
 .classpath
 .project
-build
+
